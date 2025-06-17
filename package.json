@@ -1,0 +1,9 @@
+{
+  "name": "aadil-crud-js",
+  "version": "1.0.0",
+  "description": "A lightweight fetch-based CRUD utility",
+  "main": "index.js",
+  "author": "Hafiz Aadil Abdul Moizz Noorani",
+  "license": "MIT",
+  "keywords": ["crud", "fetch", "api", "utility", "library"]
+}
