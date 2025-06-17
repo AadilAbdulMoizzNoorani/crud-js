@@ -1,5 +1,5 @@
 {
-  "name": "aadil-crud-js",
+  "name": "crud-js",
   "version": "1.0.0",
   "description": "A lightweight Fetch API-based CRUD utility for JavaScript projects",
   "main": "index.js",
